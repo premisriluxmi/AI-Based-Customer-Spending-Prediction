@@ -1,0 +1,10 @@
+Column,Description
+Customer_ID,Unique ID assigned to each customer
+Age,Age of the customer
+Annual_Income,Yearly income of the customer
+Purchase_Frequency,Number of purchases per month
+Avg_Order_Value,Average amount spent per order
+Membership_Years,Number of years as a member
+Website_Visits,Number of monthly website visits
+Monthly_Spending,Estimated monthly spending
+Spending_Category,Customer spending category
