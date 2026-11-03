@@ -1,0 +1,13 @@
+Feature,Importance
+num__Avg_Order_Value,0.45437939171393843
+num__Purchase_Frequency,0.4292688507382906
+num__Membership_Years,0.03585930496229499
+cat__Income_Level_Low Income,0.03314146171289028
+num__Age,0.018193323841164382
+num__Website_Visits,0.015552224854550442
+num__Annual_Income,0.013605442176870739
+cat__Age_Group_Adult,0.0
+cat__Age_Group_Senior,0.0
+cat__Age_Group_Young,0.0
+cat__Income_Level_High Income,0.0
+cat__Income_Level_Medium Income,0.0
